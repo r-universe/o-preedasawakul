@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "BayesCVI"]
 	path = BayesCVI
-	url = https://github.com/cran/BayesCVI
+	url = https://github.com/o-preedasawakul/bayescvi
